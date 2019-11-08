@@ -1,0 +1,71 @@
+#avatar {
+    width: 300px;
+    border-radius: 80%;
+    box-shadow: 1px 1px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2 {
+    font-family: 'Abril Fatface', serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: #ffc914;
+}
+
+h3 {
+    text-transform: uppercase;
+    padding: 2rem;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+#about {
+    background-color: #232a2a;
+    width: 45%;
+    float: left;
+    position: fixed;
+    height: 100vh;
+    color: #dedfdf;
+    margin: auto;
+}
+
+#cont {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#gallery {
+    background-color: #191716;
+    width: 55%;
+    float: right;
+    padding: 3rem;
+    margin-bottom: 3rem;
+}
+
+.card {
+    width: 22rem;
+    margin: auto;
+}
+
+.btn {
+    background-color: #ff715b;
+    color: #dedfdf;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    box-shadow: 0.5px 0.5px;
+    font-weight: 400;
+}
+
+
+footer {
+    height: 3rem;
+}
