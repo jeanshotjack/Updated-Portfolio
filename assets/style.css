@@ -49,6 +49,11 @@ h3 {
     margin-bottom: 3rem;
 }
 
+#mainCard {
+    width: 40rem;
+    margin: auto;
+}
+
 .card {
     width: 22rem;
     margin: auto;
@@ -68,4 +73,10 @@ h3 {
 
 footer {
     height: 3rem;
+    padding: 0.35rem;
+}
+
+i {
+    font-size: 35px;
+    color: #ffc914;;
 }
